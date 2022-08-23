@@ -1,5 +1,10 @@
 # Event-Driven-Architecture-with-React-and-FastAPI
 
+https://raw.githubusercontent.com/RodrigoMvs123/Event-Driven-Architecture-with-React-and-FastAPI/main/README.md
+
+
+
+
 Event-Driven Architecture with React and FastAPI
 Event-Driven Architecture with React and FastAPI – Full Course
 
